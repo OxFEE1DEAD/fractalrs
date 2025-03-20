@@ -2,7 +2,7 @@
 
 A high-performance fractal explorer written in Rust, featuring beautiful mathematical patterns and real-time interaction.
 
-![Fractal Example]()
+![Fractal Example](gui.jpg)
 
 ## ✨ Features
 
