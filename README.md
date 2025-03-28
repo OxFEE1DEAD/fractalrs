@@ -1,4 +1,4 @@
-# 🌀 Fractolrs
+# 🌀 Fractalrs
 
 A high-performance fractal explorer written in Rust, featuring beautiful mathematical patterns and real-time interaction.
 
